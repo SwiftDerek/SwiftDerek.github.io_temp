@@ -1,0 +1,36 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Derek",
+  "MiddleName": "",
+  "LastName": "Williams",
+  "devDesc": "Web Developer | .NET Engineer | Data Analyst | Machine Learning Enthusiast",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/swiftderek",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/swiftderek/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": false,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "swiftderek",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Web Developer with 3+ years of experience working with .NET and grad student at University of Illinois at Urbana-Champaign for data science. Passionate about front/back end development along with experimenting in data science with machine learning. Avid bodybuilder and video game hobbyist. ",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "swiftderek",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": false,
+  "showBlog": false
+}
